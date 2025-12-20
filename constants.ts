@@ -274,7 +274,7 @@ export const LIFESTYLE_ITEMS: LifestyleItem[] = [
       {
         type: "video",
         url: "/assets/videos/petal_20250717_104312.mp4",
-        caption: "Match Highlights - Semi Finals"
+        caption: "Match Highlights - friendly"
       },
       {
         type: "video",
