@@ -39,7 +39,7 @@ export const EXPERIENCE: WorkExperience[] = [
     role: "Lead Full-Stack Engineer",
     period: "2025 - Present",
     description: "Architecting and deploying production-grade applications. Key achievement: Built and launched 'Bigi', a multi-vendor e-commerce platform serving thousands of users in Nairobi.",
-    tech: ["React", "Node.js", "MongoDB", "AWS"]
+    tech: ["React", "Node.js", "MongoDB" ]
   },
   {
     id: "exp2",
@@ -47,7 +47,7 @@ export const EXPERIENCE: WorkExperience[] = [
     role: "Junior Software Developer",
     period: "2023 - 2024",
     description: "Collaborated with a cross-functional team to develop fintech solutions. Optimized React components reducing page load times by 40%.",
-    tech: ["TypeScript", "React", "Redux", "Figma"]
+    tech: ["TypeScript", "React", "Figma"]
   },
   {
     id: "exp3",
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     id: "bigi",
     title: "Bigi E-Commerce",
     description: "A robust multi-vendor e-commerce platform live in Kenya. Features real-time inventory tracking, secure M-Pesa & card payment integration, and a responsive mobile-first design.",
-    tech: ["React", "Node.js", "MongoDB", "Express", "Redux"],
+    tech: ["React", "Node.js", "MongoDB", "Express",],
     status: "Live",
     link: "https://bigi.africa",
     github: "#"
