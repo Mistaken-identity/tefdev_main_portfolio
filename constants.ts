@@ -100,7 +100,7 @@ export const PROJECTS: Project[] = [
     id: "p1",
     title: "Nebula Dashboard",
     description: "A real-time data visualization platform for IoT devices using WebSockets and D3.js. Handles 50k+ concurrent connections.",
-    tech: ["React", "TypeScript", "D3.js", "Node.js", "Redis"],
+    tech: ["React", "TypeScript", "Node.js", "Redis"],
     status: "Concept",
     link: "#",
     github: "#",
