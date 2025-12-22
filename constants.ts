@@ -9,7 +9,7 @@ export const PROFILE: DevProfile = {
   availability: "Available",
   avatarUrl: "/assets/images/teflon.jpg",
   stats: {
-    yearsExperience: 3,
+    yearsExperience: 2,
     projectsCompleted: 15,
     coffeeConsumed: 3042
   }
