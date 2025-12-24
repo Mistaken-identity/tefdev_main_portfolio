@@ -53,7 +53,7 @@ export const EXPERIENCE: WorkExperience[] = [
     id: "exp3",
     company: "Digiduka Solutions",
     role: "Internship",
-    period: "June,2023 - Nov,2023",
+    period: "June - Nov,2023",
     description: "Assisted in the maintenance of client websites. Migrated legacy jQuery codebases to modern React functional components.",
     tech: ["HTML/CSS", "JavaScript", "PHP"]
   }
