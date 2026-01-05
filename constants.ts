@@ -214,7 +214,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Sololearn",
     date: "2023",
     description: "Advanced training in Python syntax, OOP, and functional programming concepts.",
-    link: "#"
+    link: "#sololearn.com"
   },
   {
     id: "c3",
