@@ -3,8 +3,8 @@ import { DevProfile, Project, Skill, Education, WorkExperience, Review, Certific
 
 export const PROFILE: DevProfile = {
   name: "Antony Emong'oluk",
-  title: "Full-Stack Engineer",
-  about: "I build scalable digital solutions. Based in Nairobi, Kenya, I specialize in full-stack development with a focus on e-commerce platforms and interactive web experiences. With 3 years of intensive industry experience, I turn complex problems into elegant code.",
+  title: "Founder & Lead Developer at TefDevs",
+  about: "I build modern websites, web applications, and automation tools that help businesses operate smarter, grow faster, and succeed in the digital world. Explore my work and services below, or get in touch to start your project.",
   location: "Nairobi, Kenya",
   availability: "Available",
   avatarUrl: "/assets/images/teflon.jpg",
