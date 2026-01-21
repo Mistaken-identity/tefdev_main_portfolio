@@ -364,6 +364,7 @@ Activities / Interests:
 - Football (Midfielder, plays in Sunday leagues)
 - Gym (Strength training for focus)
 - Hiking (To disconnect and reset)
+- Boxing 
 
 Contact Information:
 - Email: antonyteflon10@gmail.com
