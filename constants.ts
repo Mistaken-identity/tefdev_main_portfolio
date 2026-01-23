@@ -11,7 +11,7 @@ export const PROFILE: DevProfile = {
   stats: {
     yearsExperience: 2,
     projectsCompleted: 10,
-    coffeeConsumed: 3078
+    coffeeConsumed: 3074
   }
 };
 
