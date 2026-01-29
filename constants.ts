@@ -67,7 +67,7 @@ export const PROJECTS: Project[] = [
     tech: ["React", "Node.js", "MongoDB", "Express",],
     status: "Live",
     link: "https://bigi.africa",
-    github: "#"
+    github: "bigi"
   },
   {
     id: "todo",
