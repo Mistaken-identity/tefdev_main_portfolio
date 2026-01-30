@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
     description: "My personal digital HQ. A high-tech showcase featuring a neural interface chat powered by Gemini, glassmorphism UI, and interactive component demos.",
     tech: ["React", "TypeScript", "Tailwind", "Gemini API"],
     status: "Live",
-    github: "#",
+    github: "tefdev-engineering-digital",
     demoId: "void" 
   },
   {
