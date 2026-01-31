@@ -103,7 +103,7 @@ export const PROJECTS: Project[] = [
     tech: ["React", "TypeScript", "Node.js", "Redis"],
     status: "Concept",
     link: "#",
-    github: "#",
+    github: "Nebula-Dashboard",
     demoId: "nebula"
   },
   {
