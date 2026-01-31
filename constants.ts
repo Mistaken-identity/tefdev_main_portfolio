@@ -39,7 +39,7 @@ export const EXPERIENCE: WorkExperience[] = [
     role: "Lead Full-Stack Engineer",
     period: "2025 - Present",
     description: "Architecting and deploying production-grade applications. Key achievement: Built and launched 'Bigi', a multi-vendor e-commerce platform serving thousands of users in Nairobi.",
-    tech: ["React", "Node.js", "MongoDB" ]
+    tech: ["React", "Node.js", "Express" "MongoDB" ]
   },
   {
     id: "exp2",
