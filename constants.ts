@@ -103,7 +103,7 @@ export const PROJECTS: Project[] = [
     tech: ["React", "TypeScript", "Node.js", "Redis"],
     status: "Concept",
     link: "#",
-    github: ""https://github.com/Mistaken-identity/Nebula-Dashboard",
+    github: "https://github.com/Mistaken-identity/Nebula-Dashboard",
     demoId: "nebula"
   },
   {
@@ -112,7 +112,7 @@ export const PROJECTS: Project[] = [
     description: "Headless CMS built with Next.js and GraphQL. Features an AI-powered content suggestion engine.",
     tech: ["Next.js", "GraphQL", "PostgreSQL", "Gemini API"],
     status: "Beta",
-    github: "#",
+    github: "https://github.com/Mistaken-identity/quantum cms",
     demoId: "quantum"
   },
   {
