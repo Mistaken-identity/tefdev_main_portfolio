@@ -108,12 +108,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: "p2",
-    title: "Quantum CMS",
-    description: "Headless CMS built with Next.js and GraphQL. Features an AI-powered content suggestion engine.",
-    tech: ["Next.js", "GraphQL", "PostgreSQL", "Gemini API"],
+    title: "KejaDirect",
+    description: "Real estate application that connects tenants with landlords directly without brokers, saves money.",
+    tech: ["React", "Node.js", "PostgreSQL", "Gemini API"],
     status: "Beta",
-    github: "https://github.com/Mistaken-identity/quantum cms",
-    demoId: "quantum"
+    github: "https://github.com/Mistaken-identity/kejadirect",
+    demoId: "kejadirect"
   },
   {
     id: "p4",
