@@ -213,7 +213,7 @@ export const CERTIFICATIONS: Certification[] = [
     name: "Python Core",
     issuer: "Sololearn",
     date: "2023",
-    description: "Advanced training in Python syntax, OOP, and functional programming concepts.",
+    description: "Advanced training in Python syntax, object-oriented programming, and functional programming concepts.",
     link: "#"
   },
   {
