@@ -113,7 +113,6 @@ export const PROJECTS: Project[] = [
     tech: ["React", "Node.js", "PostgreSQL", "Gemini API"],
     status: "Beta",
     github: "https://github.com/Mistaken-identity/kejadirect",
-    demoId: "kejadirect"
   },
   {
     id: "p4",
