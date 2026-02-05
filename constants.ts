@@ -55,7 +55,7 @@ export const EXPERIENCE: WorkExperience[] = [
     role: "Internship",
     period: "June - Nov,2023",
     description: "Assisted in the maintenance of client websites. Migrated legacy jQuery codebases to modern React functional components.",
-    tech: ["HTML/CSS", "JavaScript", "Php"]
+    tech: ["HTML", "CSS", "JavaScript", "Php"]
   }
 ];
 
