@@ -73,7 +73,7 @@ export const PROJECTS: Project[] = [
     id: "todo",
     title: "Futuristic Todo PWA",
     description: "A cyberpunk-themed Progressive Web App for task management. Features offline capabilities, persistent local storage, and a unique neon aesthetic interface.",
-    tech: ["JavaScript", "PWA", "CSS3", "Local Storage"],
+    tech: ["JavaScript", "PWA", "CSS3",],
     status: "Live",
     link: "https://mistaken-identity.github.io/Futuristic-todo-pwa-v2/",
     github: "https://github.com/Mistaken-identity/Futuristic-todo-pwa-v2"
