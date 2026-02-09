@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     id: "bigi",
     title: "Bigi E-Commerce",
     description: "A robust multi-vendor e-commerce platform live in Kenya. Features real-time inventory tracking, secure M-Pesa & card payment integration, and a responsive mobile-first design.",
-    tech: ["React", "Node.js", "MongoDB", "Express",],
+    tech: ["React", "Node.js", "Express",],
     status: "Live",
     link: "https://bigi.africa",
     github: "https://github.com/Mistaken-identity/bigi-frontend"
