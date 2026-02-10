@@ -287,7 +287,7 @@ export const LIFESTYLE_ITEMS: LifestyleItem[] = [
     title: "System Reboot: Hiking",
     category: "Lifestyle",
     coverUrl: "https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=600&auto=format&fit=crop",
-    date: "Mt. Longonot",
+    date: "Mt. Kenya",
     description: "Disconnecting from the grid to clear cache and reset mental state.",
     gallery: [
       {
