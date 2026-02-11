@@ -361,7 +361,7 @@ Work History:
 
 Activities / Interests:
 - Football (Midfielder, plays in Sunday leagues)
-- Gym (Strength training for focus)
+- Gym (calisthenics, strength training for focus)
 - Hiking (To disconnect and reset)
 - Boxing 
 
