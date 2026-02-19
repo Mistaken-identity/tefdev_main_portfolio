@@ -46,7 +46,7 @@ export const EXPERIENCE: WorkExperience[] = [
     company: "State Department for Gender and Affirmative Actions",
     role: "Junior Software Developer",
     period: "2023 - 2024",
-    description: "Collaborated with a cross-functional team to develop fintech solutions. Optimized React components reducing page load times by 40%.",
+    description: "Collaborated with a cross-functional team to develop fintech solutions. Optimized React components reducing page load times by 45%.",
     tech: ["TypeScript", "React", "Figma"]
   },
   {
