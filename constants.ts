@@ -146,7 +146,7 @@ export const SKILLS: Skill[] = [
 
   { category: "DevOps", name: "CI/CD Pipelines", level: 80 },
   { category: "DevOps", name: "AWS Services", level: 75 },
-  { category: "DevOps", name: "Docker/K8s", level: 75 },
+  { category: "DevOps", name: "Docker/K8s", level: 78 },
 ];
 
 export const REVIEWS: Review[] = [
