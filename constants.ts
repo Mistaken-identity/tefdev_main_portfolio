@@ -101,7 +101,6 @@ export const PROJECTS: Project[] = [
     title: "Nebula Dashboard",
     description: "A real-time data visualization platform for IoT devices using WebSockets and D3.js. Handles 50k+ concurrent connections.",
     tech: ["React", "TypeScript", "Node.js", "Redis"],
-    status: "Concept",
     link: "#",
     github: "https://github.com/Mistaken-identity/Nebula-Dashboard",
     demoId: "nebula"
