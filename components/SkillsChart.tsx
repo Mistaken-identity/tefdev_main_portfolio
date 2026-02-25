@@ -7,9 +7,7 @@ interface SkillsChartProps {
 }
 
 const SkillsChart: React.FC<SkillsChartProps> = ({ skills }) => {
-  // Transform data for Radar Chart
-  // We'll aggregate max level per category or just list top skills
-  // For visual clarity, let's pick 6 key distinct skills
+  
   const chartData = skills.slice(0, 6).map(s => ({
     subject: s.name,
     A: s.level,
