@@ -192,11 +192,11 @@ export const CERTIFICATIONS: Certification[] = [
   },
   {
     id: "c_devtown",
-    name: "Backend Web Development",
-    issuer: "DevTown",
-    date: "2024",
-    description: "Completed an intensive bootcamp on server-side scalable architecture using Node.js and Express.",
-    link: "#"
+    name: "Linux Fundamentals",
+    issuer: "DevTown-Microsoft Student Chapter",
+    date: "2025",
+    description: "Perticipated and completed intensive projects for the bootcamp.",
+    link: "https://cert.devtown.in/verify/ZWP8Bc"
   },
   {
     id: "c2",
