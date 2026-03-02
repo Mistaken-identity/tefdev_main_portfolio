@@ -186,7 +186,7 @@ export const CERTIFICATIONS: Certification[] = [
     id: "c1",
     name: "Meta Front-End Developer",
     issuer: "Coursera / Meta",
-    date: "2024",
+    date: "2025",
     description: "Professional certification covering advanced React, UI/UX principles, and accessible web development protocols.",
     link: "#"
   },
