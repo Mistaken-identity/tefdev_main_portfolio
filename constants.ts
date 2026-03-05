@@ -28,7 +28,7 @@ export const EDUCATION: Education[] = [
     institution: "Nairobi Technical Institute",
     degree: "Diploma in Information Technology",
     period: "2021 - 2023",
-    description: "Foundation in computer systems, networking, and procedural programming. Graduated with Distinction."
+    description: "Foundation in computer systems, networking, and programming. Graduated with Distinction."
   }
 ];
 
