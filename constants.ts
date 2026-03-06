@@ -142,6 +142,7 @@ export const SKILLS: Skill[] = [
   { category: "Backend", name: "Python", level: 80 },
   { category: "Backend", name: "PostgreSQL", level: 75 },
   { category: "Backend", name: "Firebase", level: 85 },
+  { category: "Backend", name: "Supabase", level: 100 },
 
   { category: "DevOps", name: "CI/CD Pipelines", level: 80 },
   { category: "DevOps", name: "AWS Services", level: 75 },
